@@ -1,5 +1,5 @@
 {
-    "name": "palanik/corsslim",
+    "name": "felipepavao/corsslim",
     "description": "Cross-origin resource sharing (CORS) middleware for PHP Slim.",
     "keywords": [
         "corsslim",
